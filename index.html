@@ -149,6 +149,50 @@
             text-decoration: underline;
             opacity: 0.8;
         }
+        /* 下载按钮容器 */
+.cta-wrapper {
+    text-align: center;
+    margin: 30px 0 40px;
+}
+
+/* 仿 Chrome 商店风格的按钮 */
+.download-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--accent-blue);
+    color: #0d1117 !important; /* 确保在亮色背景下使用深色文字 */
+    padding: 5px 36px;        /* 增加内边距，让按钮更有“呼吸感” */
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;          /* 加粗文字 */
+    font-size: 1.1rem;
+    transition: all 0.3s cubic-bezier(0.2, 0, 0, 1);
+    box-shadow: 0 4px 20px rgba(88, 166, 255, 0.4); /* 让光晕更柔和 */
+}
+
+.download-button:hover {
+    transform: translateY(-2px);
+    filter: brightness(1.05);  /* 悬停时微微增亮，而不是变色 */
+    box-shadow: 0 8px 25px rgba(88, 166, 255, 0.5);
+}
+
+.download-button img {
+    /* 稍微调大一点点，让它和文字视觉权重一致 */
+    width: 26px;
+    height: 26px;
+    margin-right: 12px;
+    position: relative;
+    top: -7px;
+}
+
+
+/* 针对页脚也给一个次级链接说明 */
+.footer-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
     </style>
 </head>
 
@@ -165,6 +209,13 @@
                 <strong>Ultra-lightweight (0.3MB) | Privacy-First | Highly Intuitive Translation Tool</strong><br>
                 <strong>極致輕量 (0.3MB) | 隱私至上 | 高度直覺的翻譯工具</strong>
             </blockquote>
+            <div class="cta-wrapper">
+    <a href="https://chromewebstore.google.com/detail/hmmllfdmkbmmfffjekhmmbhhfhhnocmn" 
+       target="_blank" class="download-button">
+        <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="24" height="24" style="margin-right:10px; vertical-align:middle;">
+        Add to Chrome | 免費添加至 Chrome
+    </a>
+</div>
         </div>
 
         <p><strong>Mira Translator</strong> is a translation tool that pursues ultimate aesthetics and performance. With
@@ -242,4 +293,5 @@
 </body>
 
 </html>
+
 
