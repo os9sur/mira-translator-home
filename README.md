@@ -6,9 +6,6 @@
 > ### **Ultra-lightweight (0.3MB) | Privacy-First | Highly Intuitive Translation Tool**
 > ### **極致輕量 (0.3MB) | 隱私至上 | 高度直覺的翻譯工具**
 
-> ### **Ultra-lightweight (0.3MB) | Privacy-First | Highly Intuitive Translation Tool**
-> ### **極致輕量 (0.3MB) | 隱私至上 | 高度直覺的翻譯工具**
-
 **Mira Translator** is a translation tool that pursues ultimate aesthetics and performance. With a tiny footprint of only 0.3MB, it remains completely free, without memberships, advertisements, or any registration required.
 
 **Mira Translator** 是一款追求極致美學與性能的翻譯工具。體積僅 0.3MB，堅持完全免費、無會員、無廣告，且無需註冊登錄。
