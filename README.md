@@ -1,3 +1,27 @@
+<style>
+  /* 全屏纯黑背景 */
+  body { 
+    background-color: #0d1117 !important; 
+    color: #c9d1d9 !important; 
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  /* 隐藏 GitHub Pages 默认的顶部横条 */
+  header, .vcard-names-container, .TableObject-item--primary { display: none !important; }
+  /* 链接颜色 */
+  a { color: #58a6ff !important; }
+  /* 让内容居中且更有质感 */
+  .container-lg { max-width: 900px !important; margin: 0 auto !important; padding: 45px !important; }
+  /* 修正图片在暗色背景下的观感 */
+  img { border-radius: 8px; border: 1px solid #30363d; margin: 20px 0; }
+  /* 引用块（就是你写 Ultra-lightweight 的地方） */
+  blockquote { 
+    border-left: .25em solid #30363d !important;
+    color: #8b949e !important;
+    background: #161b22;
+    padding: 10px 20px;
+    border-radius: 6px;
+  }
+</style>
 <div align="center">
   <img src="logo.png" width="80" height="80" alt="Mira Translator Logo">
   <h1>Mira Translator | 米拉翻譯器</h1>
