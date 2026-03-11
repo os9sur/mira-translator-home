@@ -1,8 +1,8 @@
 # Mira Translator
 
-> **Ultra-lightweight (0.3MB) | Privacy-First | Highly Intuitive Translation Tool**
->
-> **超轻量级 (0.3MB) | 隐私第一 | 高度直观的翻译工具**
+| **Ultra-lightweight (0.3MB)** | **Privacy-First** | **Highly Intuitive Translation Tool** |
+| :---: | :---: | :---: |
+| **超轻量级 (0.3MB)** | **隐私第一** | **高度直观的翻译工具** |
 
 Mira Translator 是一款追求极致美学与性能的翻译工具。体积仅 0.3MB，坚持完全免费、无会员、无广告，且无需注册登录。
 
