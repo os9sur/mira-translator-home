@@ -1,5 +1,3 @@
-<link rel="icon" href="logo.png" type="image/png">
-
 <div align="center">
   <img src="logo.png" width="80" height="80" alt="Mira Translator Logo">
   <h1>Mira Translator | 米拉翻譯器</h1>
