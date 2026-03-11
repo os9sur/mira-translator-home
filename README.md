@@ -1,4 +1,10 @@
-# Mira Translator | 米拉翻譯器
+<div align="center">
+  <img src="logo.png" width="80" height="80" alt="Mira Translator Logo">
+  <h1>Mira Translator | 米拉翻譯器</h1>
+</div>
+
+> ### **Ultra-lightweight (0.3MB) | Privacy-First | Highly Intuitive Translation Tool**
+> ### **極致輕量 (0.3MB) | 隱私至上 | 高度直覺的翻譯工具**
 
 > ### **Ultra-lightweight (0.3MB) | Privacy-First | Highly Intuitive Translation Tool**
 > ### **極致輕量 (0.3MB) | 隱私至上 | 高度直覺的翻譯工具**
